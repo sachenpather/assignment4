@@ -12,7 +12,7 @@ The programs read an input image file, manipulate the pixel values, and save the
 
 ---
 
-## question 1: increase_brightness
+## Question 1: increase_brightness
 
 ### Description:
 - File: increase_brightness.asm
@@ -26,7 +26,7 @@ The programs read an input image file, manipulate the pixel values, and save the
 3. Run the program on QTSpim
 ---
 
-## Program 2: greyscale
+## Question 2: greyscale
 
 ### Description:
 - File: greyscale.asm
